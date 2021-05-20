@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8AFE7226-386A-88CA-24A4-7BAAE8BA71EB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/gt/ai/AiController.cs">
+    <Files>
+      <File FileName="Assets/gt/ai/AiController.cs" Line="91" Column="10" />
+      <File FileName="Assets/gt/ai/NeuroevolutionGenerations.cs" />
+      <File FileName="Assets/gt/ai/Neuron.cs" Line="17" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1ccfbba9-5c59-4f17-bab3-7fdc09f3debe" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
